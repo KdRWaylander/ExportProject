@@ -3,9 +3,10 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Oo]utputs/
 Assets/AssetStoreTools*
-Assets/HDR
-Assets/Models
+ExportProject/Assets/HDR
+ExportProject/Assets/Models
 
 # Visual Studio 2015 cache directory
 /.vs/
