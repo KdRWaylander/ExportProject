@@ -1320,7 +1320,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_targetToFollow: {fileID: 413636954}
   m_lag: 0
-  m_lagTime: 0.2
+  m_lagTime: 500
 --- !u!114 &1289075171
 MonoBehaviour:
   m_ObjectHideFlags: 0
